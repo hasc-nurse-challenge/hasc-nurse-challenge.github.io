@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Nurse Care Activity Recognition Challenge"
-    url: /
   - title: "About"
     url: /about/
   # - title: "Get the Data"
