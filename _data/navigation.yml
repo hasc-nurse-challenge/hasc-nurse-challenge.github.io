@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Nurse Care Activity Recognition Challenge"
+    url: https://hasc-nurse-challenge.github.io/
+   - title: "Description"
+     url: https://hasc-nurse-challenge.github.io/pages/about/
+   - title: "Get the Data"
+     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
