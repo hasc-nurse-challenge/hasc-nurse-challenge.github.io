@@ -1,9 +1,9 @@
 # main links
 main:
-  #- title: "Nurse Care Activity Recognition Challenge"
-  #  url: https://hasc-nurse-challenge.github.io/
-  # - title: "Description"
-  #   url: https://hasc-nurse-challenge.github.io/pages/about/
+  - title: "Nurse Care Activity Recognition Challenge"
+    url: /
+  - title: "About"
+    url: /about/
   # - title: "Get the Data"
   #   url: /year-archive/
   # - title: "Sample Collections"
