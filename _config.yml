@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 minimal_mistakes_skin    : "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -22,7 +22,7 @@ title_separator          : "-"
 name                     : "HASCA Workshop"
 description              : "Recognizing nurse care activities in a nursing home"
 url                      : "https://hasc-nurse-challenge.github.io"
-baseurl                  : "/pages"
+baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -183,8 +183,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
