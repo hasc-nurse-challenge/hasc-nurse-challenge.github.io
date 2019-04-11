@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Organizers"
-    url: /about/
   - title: "The Challenge"
     url: /learn/
+  - title: "Organizers"
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
