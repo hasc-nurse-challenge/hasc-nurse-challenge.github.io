@@ -2,6 +2,8 @@
 main:
   - title: "The Challenge"
     url: /learn/
+  - title: "Get the Data"
+    url: /data/
   - title: "Organizers"
     url: /about/
   # - title: "Sample Collections"
