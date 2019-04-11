@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About"
+  - title: "Organizers"
     url: /about/
-  - title: "How to Participate"
-    url: /join/
+  - title: "The Challenge"
+    url: /learn/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
