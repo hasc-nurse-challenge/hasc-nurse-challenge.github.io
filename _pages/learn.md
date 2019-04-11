@@ -4,6 +4,8 @@ title: "CARECOM Challenge"
 permalink: /learn/
 date: 2019-04-14T00:00:00+09:00
 ---
+# CARECOM Nurse Care Activity Recognition Challenge
+
 ## Why nurse care activity recognition?
 In an aging population the demand for nurse workers increases to care for elders. Helping nurse workers make their work more efficient, will help increase elder quality of life, as the nurses can focus their efforts on care activities instead of other activities such as documentation.
 
