@@ -31,8 +31,9 @@ You cannot sign up to IEEE DataPort from multiple accounts and therefore you can
 All participants may use the data free of charge under CC license.
 
 # Team Limits
-The  account per participantmaximum size of a team is 10 participants.
-Submission Limits
+The  maximum size of a team is 10 participants.
+
+#Submission Limits
 You may submit up to 2 submissions for judging.
 
 # Competition Timeline
