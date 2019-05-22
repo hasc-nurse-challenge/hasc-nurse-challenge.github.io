@@ -2,9 +2,9 @@
 main:
   - title: "The Challenge"
     url: /learn/
-  - title: "Get the Data"
-    url: /data/
-  - title: "Organizers"
+  - title: "Data Description"
+    url: /data_description/
+  - title: "The Rules"
     url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
