@@ -33,7 +33,7 @@ All participants may use the data free of charge under CC license.
 # Team Limits
 The  maximum size of a team is 10 participants.
 
-#Submission Limits
+# Submission Limits
 You may submit up to 2 submissions for judging.
 
 # Competition Timeline
