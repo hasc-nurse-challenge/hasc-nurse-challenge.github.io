@@ -8,13 +8,13 @@ Data has been divided in 1-minute segments.
 Train data contains 282 segments from 6 subjects. 
 Test data contains 116 segments from 2 other subjects.
 
-#Motion Capture 
+# Motion Capture 
 
 Sampling rate:100 Hz
 Mocap data is in the folder mocap. Each segment data is 
 
-#Meditag
+# Meditag
 Sampling rate: 20Hz
 
-#Accelerometer 
+# Accelerometer 
 Sampling rate: 4Hz

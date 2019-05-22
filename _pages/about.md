@@ -3,7 +3,6 @@ permalink: /about/
 title: "Rules"
 excerpt: "About the Challenge"
 last_modified_at: 2019-04-03T15:15:09-04:00
-toc: true
 ---
 The Nurse Care Challenge is organized by [Sozolab](http://sozolab.jp/) and sponsored by [Carecom](https://www.carecom.jp/global/). 
 The Challenge will be hosted in IEEE Data Port. 
