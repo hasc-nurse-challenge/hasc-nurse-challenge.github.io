@@ -4,7 +4,9 @@ main:
     url: /learn/
   - title: "Data Description"
     url: /data_description/
-  - title: "The Rules"
+  - title: "How to Participate"
+    url: /how_to/
+  - title: "Rules"
     url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
