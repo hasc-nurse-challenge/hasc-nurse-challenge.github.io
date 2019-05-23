@@ -19,10 +19,12 @@ The activities have been chosen in collaboration with nurses and CARECOM company
 
 Four types of sensors have been installed.
 Motion capture sensors with 29 markers, accelerometer sensor in the chest, bluetooth based in-door positioning and pressure sensor. 
-[See more details about each activity and the sensors](/data_description/).
+[Read more](/data_description/).
 
 ## Challenge
 For the challenge the dataset has been divided in two subsets.
 The first subset contains data about 6 subjects and contains all activity labels.
 The second subset contains data about the other 2 subjects and is not labeled.
 Participants must submit their results of predicted activities on the second dataset using their models.
+
+Read the [rules](/rules/) and [how to participate](/how_to/).
