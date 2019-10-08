@@ -10,21 +10,25 @@ The Nurse Care Activity Recognition was successfully held and the results were a
 **First place**
 
 _Team IITDU_
+
 Eusha Kadir, Pritom Saha Akash, Sadia Sharmin, Amin Ahsan Ali, and Mohammad
 Shoyaib
 
 **Second place**
 
 _TeamTDU-DSML_
+
 Xin Cao, Wataru Kudo, Chihiro Ito, Masaki Shuzo, and Eisaku Maeda.
 
 **Other participants**
 
 _Team Dark Shadow_
+
 Nazmul Haque, Mahir Mahbub, Hasan Tarek, Lutfun Nahar Lota, and Amin Assan
 Ali.
 
 _Team Data Digger_  
+
 Nazmus Sakib Patwary, Protap Kumar Saha, and Ifthakhar Ahmed
 
 We thank all participants for their effort in this challenge and we hope to run other challenges in the future.
