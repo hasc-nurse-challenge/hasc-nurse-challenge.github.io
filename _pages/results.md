@@ -16,7 +16,7 @@ Shoyaib
 
 **Second place**
 
-_TeamTDU-DSML_
+_Team TDU-DSML_
 
 Xin Cao, Wataru Kudo, Chihiro Ito, Masaki Shuzo, and Eisaku Maeda.
 
