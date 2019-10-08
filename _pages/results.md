@@ -30,6 +30,7 @@ Nazmus Sakib Patwary, Protap Kumar Saha, and Ifthakhar Ahmed
 We thank all participants for their effort in this challenge and we hope to run other challenges in the future.
 
 Here are some pictures from the session!
+
 ![Summary announcements](/assets/images/Photos/challenge1.jpg){:height="50%" width="50%"}
 ![Award ceremony](/assets/images/Photos/challenge2.jpg){:height="50%" width="50%"}
 ![Award ceremony](/assets/images/Photos/challenge3.jpg){:height="50%" width="50%"}
