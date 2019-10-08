@@ -3,7 +3,7 @@ permalink: /results/
 title: "Challenge results"
 excerpt: "Challenge results"
 last_modified_at: 2019-10-08T15:15:53-04:00
-toc: false
+toc: true
 ---
 The Nurse Care Activity Recognition was successfully held and the results were announced during HASCA Workshop 2019 (London, UK). The results were as follows:
 
