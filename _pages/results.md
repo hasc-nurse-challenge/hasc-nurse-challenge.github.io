@@ -30,10 +30,10 @@ Nazmus Sakib Patwary, Protap Kumar Saha, and Ifthakhar Ahmed
 We thank all participants for their effort in this challenge and we hope to run other challenges in the future.
 
 Here are some pictures from the session!
-![Summary announcements](/assets/images/Photos/challenge1.jpg | width=100)
-![Award ceremony](/assets/images/Photos/challenge2.jpg | width=100)
-![Award ceremony](/assets/images/Photos/challenge3.jpg | width=100)
-![Award ceremony](/assets/images/Photos/challenge4.jpg | width=100)
-![Award ceremony](/assets/images/Photos/challenge5.jpg | width=100)
-![Second place](/assets/images/Photos/challenge6.jpg | width=100)
-![First and second place](/assets/images/Photos/challenge7.jpg | width=100)
+![Summary announcements](/assets/images/Photos/challenge1.jpg){:height="50%" width="50%"}
+![Award ceremony](/assets/images/Photos/challenge2.jpg){:height="50%" width="50%"}
+![Award ceremony](/assets/images/Photos/challenge3.jpg){:height="50%" width="50%"}
+![Award ceremony](/assets/images/Photos/challenge4.jpg){:height="50%" width="50%"}
+![Award ceremony](/assets/images/Photos/challenge5.jpg){:height="50%" width="50%"}
+![Second place](/assets/images/Photos/challenge6.jpg){:height="50%" width="50%"}
+![First and second place](/assets/images/Photos/challenge7.jpg){:height="50%" width="50%"}
